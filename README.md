@@ -1,4 +1,4 @@
-# Keyboard Maestro macros for MacOS voice control
+# Keyboard Maestro macros for OS X / macOS voice control
 
 I use this with [Aenea](https://github.com/dictation-toolbox/aenea) and custom grammars to code and operate a Mac by voice.
 
